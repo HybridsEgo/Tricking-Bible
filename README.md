@@ -16,3 +16,4 @@ that is a checkmark
 
 that is an xmark
 
+<img src="lonewolfstairsresult.png">
