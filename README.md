@@ -7,3 +7,12 @@ This is a test to see if this works
 ok its normal now
 
 the word ***among us*** is bold
+
+✓
+
+that is a checkmark
+
+✘
+
+that is an xmark
+
