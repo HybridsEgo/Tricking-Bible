@@ -1,4 +1,4 @@
-<!-- docs/_sidebar.md -->
+<!-- _sidebar.md -->
 - [Introduction](README.md/#Introduction "Introduction")
 
 - Checkpoints & Reverts
