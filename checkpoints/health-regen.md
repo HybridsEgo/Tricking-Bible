@@ -1,7 +1,7 @@
 # Health Regeneration
 In extremely specific instances it is possible for a player to be granted a checkpoint for health regeneration. There is a dormant script `f_global_health_saves` in Halo: Reach's campaign, but it goes for the most part unused because most missions don't trigger `(wake f_global_health_saves)` in the mission script startup.
 
-![regen-debug](_media\tots\health-regen\debug.png)
+<img src="_media\tots\health-regen\debug.png" alt="debugImage" width="852" height="480">
 
 Missions that use `f_global_health_saves`:
 - Winter Contingency 
