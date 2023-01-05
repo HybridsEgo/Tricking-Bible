@@ -1,5 +1,5 @@
 <!-- _sidebar.md -->
-- [Home](README.md "Home")
+- [Home](/#/ "Home")
 
 - Games
     - [Halo: Reach](checkpoints/health-regen.md "Halo: Reach")
