@@ -1,7 +1,14 @@
 <!-- _sidebar.md -->
-- [Introduction](README.md/#Introduction "Introduction")
+- [Home](README.md/#Introduction "Home")
 
-- Checkpoints & Reverts
-    - [Health Regeneration](checkpoints/health-regen.md "Health Regeneration")
+- Games
+    - [Halo: Reach](checkpoints/health-regen.md "Halo: Reach")
 
-- **Links**
+- Tricks
+    - Placeholder
+
+- Game Mechanics
+    - Placeholder
+
+- *Links*
+
